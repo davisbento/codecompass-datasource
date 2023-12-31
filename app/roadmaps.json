@@ -1,0 +1,25 @@
+{
+  "roadmaps": [
+    {
+      "id": 1,
+      "name": "Comece por aqui",
+      "description": "Aprenda os conceitos básicos de HTML e CSS, e crie seu primeiro site",
+      "skills": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "description": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML.",
+          "image": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png",
+          "roadmap_id": 1
+        },
+        {
+          "id": 2,
+          "name": "CSS",
+          "description": "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML, ou seja, definir a aparência das páginas web, incluindo cores, layout e fontes.",
+          "image": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png",
+          "roadmap_id": 1
+        }
+      ]
+    }
+  ]
+}
