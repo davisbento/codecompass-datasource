@@ -1,7 +1,7 @@
 {
   "roadmaps": [
     {
-      "id": 0,
+      "id": "begin-here",
       "name": "Comece por aqui",
       "description": "Aprenda os conceitos básicos de programação, lógica e algoritmos",
       "skills": [
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": "front-end-beginner",
       "name": "Front-end Iniciante",
       "description": "Aprenda os conceitos básicos de HTML e CSS, e crie seu primeiro site",
       "skills": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "front-end-mid",
       "name": "Front-end",
       "description": "Aprenda a criar interfaces web utilizando HTML, CSS e Javascript",
       "skills": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "back-end-beginner",
       "name": "Back-end",
       "description": "Aprenda a criar APIs e sistemas web utilizando Node.js, Express e MongoDB",
       "skills": [
