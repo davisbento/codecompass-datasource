@@ -1,0 +1,140 @@
+{
+  "roadmaps": [
+    {
+      "id": 0,
+      "name": "Comece por aqui",
+      "description": "Aprenda os conceitos básicos de programação, lógica e algoritmos",
+      "skills": [
+        {
+          "id": 1,
+          "name": "Lógica de Programação",
+          "description": "Lógica de programação é a técnica de encadear pensamentos para atingir determinado objetivo. Apesar de ser um conceito bastante simples, é comum que programadores iniciantes encontrem certa dificuldade para desenvolver algoritmos.",
+          "roadmap_id": 0
+        },
+        {
+          "id": 2,
+          "name": "Algoritmos",
+          "description": "Algoritmo é uma sequência finita de instruções bem definidas e não ambíguas, cada uma das quais devendo ser executadas mecânica ou eletronicamente em um período de tempo finito e com uma quantidade de esforço finita.",
+          "roadmap_id": 0
+        },
+        {
+          "id": 3,
+          "name": "Web",
+          "description": "A World Wide Web, também conhecida como Web e WWW, é um sistema de documentos em hipermídia que são interligados e executados na Internet. Nele, é possível visualizar e interagir com conteúdos de textos, sons, imagens e vídeos.",
+          "roadmap_id": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Front-end Iniciante",
+      "description": "Aprenda os conceitos básicos de HTML e CSS, e crie seu primeiro site",
+      "skills": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "description": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML.",
+          "roadmap_id": 1
+        },
+        {
+          "id": 2,
+          "name": "CSS",
+          "description": "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML, ou seja, definir a aparência das páginas web, incluindo cores, layout e fontes.",
+          "roadmap_id": 1
+        },
+        {
+          "id": 3,
+          "name": "Javascript",
+          "description": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.",
+          "roadmap_id": 1
+        },
+        {
+          "id": 4,
+          "name": "Git",
+          "description": "Git é um sistema de controle de versão distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.",
+          "roadmap_id": 1
+        },
+        {
+          "id": 5,
+          "name": "Github",
+          "description": "GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.",
+          "roadmap_id": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Front-end",
+      "description": "Aprenda a criar interfaces web utilizando HTML, CSS e Javascript",
+      "skills": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "description": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML.",
+          "roadmap_id": 2
+        },
+        {
+          "id": 2,
+          "name": "CSS",
+          "description": "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML, ou seja, definir a aparência das páginas web, incluindo cores, layout e fontes.",
+          "roadmap_id": 2
+        },
+        {
+          "id": 3,
+          "name": "Javascript",
+          "description": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.",
+          "roadmap_id": 2
+        },
+        {
+          "id": 4,
+          "name": "Git",
+          "description": "Git é um sistema de controle de versão distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.",
+          "roadmap_id": 2
+        },
+        {
+          "id": 5,
+          "name": "Github",
+          "description": "GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.",
+          "roadmap_id": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Back-end",
+      "description": "Aprenda a criar APIs e sistemas web utilizando Node.js, Express e MongoDB",
+      "skills": [
+        {
+          "id": 1,
+          "name": "Node.js",
+          "description": "Node.js é um interpretador de código JavaScript com o código aberto, focado em migrar o Javascript do lado do cliente para servidores.",
+          "roadmap_id": 3
+        },
+        {
+          "id": 2,
+          "name": "Express",
+          "description": "Express é um framework para Node.js que fornece recursos mínimos para construção de servidores web.",
+          "roadmap_id": 3
+        },
+        {
+          "id": 3,
+          "name": "MongoDB",
+          "description": "MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++.",
+          "roadmap_id": 3
+        },
+        {
+          "id": 4,
+          "name": "Git",
+          "description": "Git é um sistema de controle de versão distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.",
+          "roadmap_id": 3
+        },
+        {
+          "id": 5,
+          "name": "Github",
+          "description": "GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.",
+          "roadmap_id": 3
+        }
+      ]
+    }
+  ]
+}

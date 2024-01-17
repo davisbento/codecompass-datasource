@@ -9,7 +9,8 @@ type Params = {
 export async function GET(req: Request, { params }: Params) {
 	const dataName = params.data;
 
-	const path = process.cwd() + '/app/' + dataName + '.json';
+	const path = process.cwd() + '/app/datasource/' + dataName + '.json';
+
 	try {
 		const file = await fs.readFile(path, 'utf8');
 
