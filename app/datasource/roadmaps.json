@@ -9,19 +9,101 @@
           "id": 1,
           "name": "Lógica de Programação",
           "description": "Lógica de programação é a técnica de encadear pensamentos para atingir determinado objetivo. Apesar de ser um conceito bastante simples, é comum que programadores iniciantes encontrem certa dificuldade para desenvolver algoritmos.",
-          "roadmap_id": 0
+          "resources": [
+            {
+              "name": "Lógica de Programação",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=8mei6uVttho"
+            },
+            {
+              "name": "Lógica de Programação 2",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=JaTf3dhx464"
+            },
+            {
+              "name": "Lógica de Programação 3",
+              "type": "exercise",
+              "url": "https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao"
+            },
+            {
+              "name": "Lógica de Programação 4",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=grcIjJ6bx8k"
+            }
+          ]
         },
         {
           "id": 2,
           "name": "Algoritmos",
           "description": "Algoritmo é uma sequência finita de instruções bem definidas e não ambíguas, cada uma das quais devendo ser executadas mecânica ou eletronicamente em um período de tempo finito e com uma quantidade de esforço finita.",
-          "roadmap_id": 0
+          "resources": [
+            {
+              "name": "Algoritmos",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=8mei6uVttho"
+            },
+            {
+              "name": "Algoritmos 2",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=JaTf3dhx464"
+            },
+            {
+              "name": "Algoritmos 3",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ayGgEfDDLu4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "programming",
+      "name": "Programação Básica",
+      "description": "Aplique os conceitos de lógica e algoritmos utilizando Python e Javascript",
+      "skills": [
+        {
+          "id": 1,
+          "name": "Lógica de Programação com Python",
+          "description": "Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.",
+          "resources": [
+            {
+              "name": "Lógica de Programação com Python",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+            },
+            {
+              "name": "Lógica de Programação com Python 2",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=fE-QYIANtyo"
+            },
+            {
+              "name": "Python do Zero",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=3jYoTzs4dBk"
+            }
+          ]
         },
         {
-          "id": 3,
-          "name": "Web",
-          "description": "A World Wide Web, também conhecida como Web e WWW, é um sistema de documentos em hipermídia que são interligados e executados na Internet. Nele, é possível visualizar e interagir com conteúdos de textos, sons, imagens e vídeos.",
-          "roadmap_id": 0
+          "id": 2,
+          "name": "Lógica de Programação com Javascript",
+          "description": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.",
+          "resources": [
+            {
+              "name": "O que é Javascript?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Ptbk2af68e8"
+            },
+            {
+              "name": "Dando os primeiros passos com Javascript",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=FdePtO5JSd0"
+            },
+            {
+              "name": "Criando seu primeiro script em Javascript",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=OmmJBfcMJA8"
+            }
+          ]
         }
       ]
     },
@@ -33,32 +115,27 @@
         {
           "id": 1,
           "name": "HTML",
-          "description": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML.",
-          "roadmap_id": 1
+          "description": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML."
         },
         {
           "id": 2,
           "name": "CSS",
-          "description": "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML, ou seja, definir a aparência das páginas web, incluindo cores, layout e fontes.",
-          "roadmap_id": 1
+          "description": "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML, ou seja, definir a aparência das páginas web, incluindo cores, layout e fontes."
         },
         {
           "id": 3,
           "name": "Javascript",
-          "description": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.",
-          "roadmap_id": 1
+          "description": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma."
         },
         {
           "id": 4,
           "name": "Git",
-          "description": "Git é um sistema de controle de versão distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.",
-          "roadmap_id": 1
+          "description": "Git é um sistema de controle de versão distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo."
         },
         {
           "id": 5,
           "name": "Github",
-          "description": "GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.",
-          "roadmap_id": 1
+          "description": "GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo."
         }
       ]
     },
@@ -70,32 +147,27 @@
         {
           "id": 1,
           "name": "HTML",
-          "description": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML.",
-          "roadmap_id": 2
+          "description": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML."
         },
         {
           "id": 2,
           "name": "CSS",
-          "description": "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML, ou seja, definir a aparência das páginas web, incluindo cores, layout e fontes.",
-          "roadmap_id": 2
+          "description": "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML, ou seja, definir a aparência das páginas web, incluindo cores, layout e fontes."
         },
         {
           "id": 3,
           "name": "Javascript",
-          "description": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.",
-          "roadmap_id": 2
+          "description": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma."
         },
         {
           "id": 4,
           "name": "Git",
-          "description": "Git é um sistema de controle de versão distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.",
-          "roadmap_id": 2
+          "description": "Git é um sistema de controle de versão distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo."
         },
         {
           "id": 5,
           "name": "Github",
-          "description": "GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.",
-          "roadmap_id": 2
+          "description": "GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo."
         }
       ]
     },
@@ -107,32 +179,27 @@
         {
           "id": 1,
           "name": "Node.js",
-          "description": "Node.js é um interpretador de código JavaScript com o código aberto, focado em migrar o Javascript do lado do cliente para servidores.",
-          "roadmap_id": 3
+          "description": "Node.js é um interpretador de código JavaScript com o código aberto, focado em migrar o Javascript do lado do cliente para servidores."
         },
         {
           "id": 2,
           "name": "Express",
-          "description": "Express é um framework para Node.js que fornece recursos mínimos para construção de servidores web.",
-          "roadmap_id": 3
+          "description": "Express é um framework para Node.js que fornece recursos mínimos para construção de servidores web."
         },
         {
           "id": 3,
           "name": "MongoDB",
-          "description": "MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++.",
-          "roadmap_id": 3
+          "description": "MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++."
         },
         {
           "id": 4,
           "name": "Git",
-          "description": "Git é um sistema de controle de versão distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.",
-          "roadmap_id": 3
+          "description": "Git é um sistema de controle de versão distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo."
         },
         {
           "id": 5,
           "name": "Github",
-          "description": "GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.",
-          "roadmap_id": 3
+          "description": "GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo."
         }
       ]
     }
