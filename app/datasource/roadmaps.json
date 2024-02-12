@@ -115,27 +115,112 @@
         {
           "id": 1,
           "name": "HTML",
-          "description": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML."
+          "description": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML.",
+          "resources": [
+            {
+              "name": "O que é? HTML",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=4dQtz1PpY9A"
+            },
+            {
+              "name": "HTML do Zero",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Ejkb_YpuHWs"
+            },
+            {
+              "name": "+ Sobre HTML",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=3oSIqIqzN3M"
+            }
+          ]
         },
         {
           "id": 2,
           "name": "CSS",
-          "description": "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML, ou seja, definir a aparência das páginas web, incluindo cores, layout e fontes."
+          "description": "CSS é uma linguagem de folha de estilo composta por 'camadas', criado com o propósito de estilizar as páginas HTML, ou seja, definir a aparência das páginas web, incluindo cores, layout e fontes.",
+          "resources": [
+            {
+              "name": "O que é? CSS",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=LWU2OR19ZG4"
+            },
+            {
+              "name": "CSS do Zero",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=vMEAYSSKvt0"
+            },
+            {
+              "name": "+ Sobre CSS",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=229xfk3EEM8"
+            }
+          ]
         },
         {
           "id": 3,
           "name": "Javascript",
-          "description": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma."
+          "description": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.",
+          "resources": [
+            {
+              "name": "O que é Javascript?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=IJvVx2HMbNk"
+            },
+            {
+              "name": "Aprendendo Javascript",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=o7qnEYyC9Pg"
+            },
+            {
+              "name": "Curso JS completo",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=McKNP3g6VBA"
+            }
+          ]
         },
         {
           "id": 4,
           "name": "Git",
-          "description": "Git é um sistema de controle de versão distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo."
+          "description": "Git é um sistema de controle de versão distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.",
+          "resources": [
+            {
+              "name": "O que é Git?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=DqTITcMq68k"
+            },
+            {
+              "name": "Aprendendo Git e Github",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=pyM5QLS2h6M"
+            },
+            {
+              "name": "Curso Git completo",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=2c7yWlpWDJM"
+            }
+          ]
         },
         {
           "id": 5,
           "name": "Github",
-          "description": "GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo."
+          "description": "GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.",
+          "resources": [
+            {
+              "name": "O que é Github?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=UbJLOn1PAKw"
+            },
+            {
+              "name": "Github Actions",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=F51HlrEeedw"
+            },
+            {
+              "name": "Git E Github para iniciantes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=P9xXbEhqhqA"
+            }
+          ]
         }
       ]
     },
